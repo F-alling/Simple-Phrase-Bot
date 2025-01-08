@@ -1,8 +1,7 @@
 const fs = require('fs');
 const { Client, GatewayIntentBits, PermissionsBitField } = require('discord.js');
 
-const config = require('./config.json');
-const token = config.token;
+const token = require('./.env');
 const phrases = require('./phrases.json');
 const allowedPhrases = phrases.allowedPhrases;
 
