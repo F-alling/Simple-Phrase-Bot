@@ -35,7 +35,7 @@ client.on('messageCreate', (message) => {
     const args = message.content.split(' ');
     const command = args.shift().toLowerCase();
 
-    if (command === '!gex') {
+    if (command === '!togglephrase') {
         if (!message.member.permissions.has(PermissionsBitField.Flags.Administrator)) {
             return message.reply("You don't have permission to use this command.");
         }
