@@ -9,7 +9,7 @@ Before you start you are going to need the following
 ## Setup
 1: Clone or download the repo
 - Use git to clone the repo
-- Click download and download the zip of the repo
+- Click "Code" then download zip.
 
 2: Install discord.js 
 - This can be done by running `npm install discord.js` in a terminal
