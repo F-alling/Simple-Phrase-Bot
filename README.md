@@ -30,4 +30,4 @@ Before you start you are going to need the following
 
 ## I dont have a bot token!
 Follow this guide here:
-- link here
+- [link here](https://discordpy.readthedocs.io/en/stable/discord.html)
